@@ -2,7 +2,7 @@
 MMMMMMMMMMMMMMMMMMMMMMWk;,cx0KXNWWMMMMMMMMMMMMMMMM
 MMMMMMMMMMMMMMMWXOO0Oxl'. ..,::cldxk0XNWMMMMMMMMMM
 MMMMMMMMMMMMWKko,....             ...,cOWMMMMMMMMM
-MMMMMMMMMMMW0c... ..                  .c0MMMMMMMMM  ghilas@belkaci
+MMMMMMMMMMMW0c... ..                  .c0MMMMMMMMM  ghilas Belkaci
 MMMMMMMMMNKxc....''''............     ..cONMMMMMMM  ---------------------------------------
 MMMMMMMXx;....;clooollllcccc::::;,,,''....dNMMMMMM  Role:      Software Test Engineer & QA
 MMMMMNO:. .':lddxxxkkkxxxxxxddddddoooooc,..lKWMMMM  Focus:     Web Accessibility (WCAG), CI/CD
