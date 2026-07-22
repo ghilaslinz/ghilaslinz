@@ -4,7 +4,7 @@ MMMMMMMMMMMMMMMWXOO0Oxl'. ..,::cldxk0XNWMMMMMMMMMM
 MMMMMMMMMMMMWKko,....             ...,cOWMMMMMMMMM
 MMMMMMMMMMMW0c... ..                  .c0MMMMMMMMM  ghilas Belkaci
 MMMMMMMMMNKxc....''''............     ..cONMMMMMMM  ---------------------------------------
-MMMMMMMXx;....;clooollllcccc::::;,,,''....dNMMMMMM  Role:      Software Test Engineer & QA
+MMMMMMMXx;....;clooollllcccc::::;,,,''....dNMMMMMM  Role:      Software Test Engineer & Web developer
 MMMMMNO:. .':lddxxxkkkxxxxxxddddddoooooc,..lKWMMMM  Focus:     Web Accessibility (WCAG), CI/CD
 MMMMNo.. .,lddxxkkOOOOOOOOOkkkkkkkkxxxkxdc..cKMMMM  Location:  Linz, Austria
 MMMWx.  .,cdxxkkkOOOOOOOOOOOOOOOOOOkkkkkkxo'.lXMMM  Education: Master in Computer Science
