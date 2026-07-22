@@ -1,6 +1,4 @@
-<h3 align="center">Hi there, I'm Ghilas 👋</h3>
-
-<pre>
+```yaml
 MMMMMMMMMMMMMMMMMMMMMMWk;,cx0KXNWWMMMMMMMMMMMMMMMM
 MMMMMMMMMMMMMMMWXOO0Oxl'. ..,::cldxk0XNWMMMMMMMMMM
 MMMMMMMMMMMMWKko,....             ...,cOWMMMMMMMMM
@@ -17,9 +15,9 @@ MMO' ..,cdxkkkkxolllodkO000000000OOOOOOOOOkxl'.,OM    Cert:        ISTQB CTFL
 MWx.  .:odollol:,,'''',cdxkO0OOOkdlcccodxkkxo,..dW    Languages:   English, German, French, Arabic, Tamazight
 MNd...':lc,';cldxddddolcc:coddolcc;,,,,;coddd:..oW    
 NOo,..'ldoc;:cc:ccclolooc:,',''codxkkkxdl:c:;'..oW    Contact ---------------------------------
-Kdo:..:dxdocclc::::::::c:;,;c;'clccclccllllc'..,kW    Portfolio:   https://belkaciportfolio.xyz
+Kdo:..:dxdocclc::::::::c:;,;c;'clccclccllllc'..,kW    Portfolio:   [https://belkaciportfolio.xyz](https://belkaciportfolio.xyz)
 Kdo:.'lxxddlldxdoooooool;,cxko;;c:;;:;;;:clcc:'cKM    Email:       ghilas.belkaci@gmail.com
-Nkl:,;oddxxxdoddddoooolcldxOOxl:lllllllooooldl,oNM    LinkedIn:    linkedin.com/in/belkaci
+Nkl:,;oddxxxdoddddoooolcldxOOxl:lllllllooooldl,oNM    LinkedIn:    [linkedin.com/in/belkaci](https://linkedin.com/in/belkaci)
 WKdc;coddxxkkkkkxdoolloxkOOOOkxoccllooooooodklc0WM
 MNkl:lddxxkkkOOkxxddodxkOOO0OkkxolooddddxxkkxoxNMM
 MWKocoddxxxkkkxdooolcccldxkkxdooollodxkkkkkkxd0MMM
@@ -35,4 +33,4 @@ MMNKOxdol;,,'''';:lodxddxxxxddddoc::;ckNMMMMMMMMMM
 NWXkdddddol:,'..'';;::::lllc:;;,,'',cOWMMMMMMMMMMM
 NWWKxdddxdool:,''',,''''''''.....',:okKNWWWMMMMMMM
 WWWN0dddxxdddoc:,,,,''''........';cloox0XNNWWMMMMM
-</pre>
+```
